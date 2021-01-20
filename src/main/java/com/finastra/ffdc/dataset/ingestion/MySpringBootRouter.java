@@ -23,7 +23,6 @@ public class MySpringBootRouter extends RouteBuilder {
     @Override
     public void configure() {
 
-
         from("timer://foo?repeatCount=1").routeId("sql-extract-route")
         .to("sql:select * from customer?dataSource=#setupDataSource")   
         .marshal()

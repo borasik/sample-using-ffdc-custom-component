@@ -1,3 +1,7 @@
-com\finastra\ffdc\dataset\ingestion\MySpringBean.class
+application.properties
+com\finastra\ffdc\dataset\ingestion\InputParametersSettings.class
 com\finastra\ffdc\dataset\ingestion\MySpringBootApplication.class
 com\finastra\ffdc\dataset\ingestion\MySpringBootRouter.class
+META-INF\LICENSE.txt
+META-INF\NOTICE.txt
+com\finastra\ffdc\dataset\ingestion\MySpringBean.class
